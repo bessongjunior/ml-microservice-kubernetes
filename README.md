@@ -1,4 +1,4 @@
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/bessongjunior/ml-microservice-kubernetes/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/bessongjunior/ml-microservice-kubernetes/tree/master)
 
 ## Project Overview
 
